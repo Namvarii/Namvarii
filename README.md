@@ -16,10 +16,10 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/python.svg" alt="python" width="50" height="50"/> </a>
   <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/dart.svg" alt="dart" width="50" height="50"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/javascript.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/typescript-plain.svg" alt="typescript" width="50" height="50"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/mysql.svg" alt="mysql" width="50" height="50"/> </a>
+  <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/typescript.svg" alt="typescript" width="50" height="50"/> </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/sql.svg" alt="sql" width="50" height="50"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/html5.svg" alt="html5" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/css3.svg" alt="css3" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/css.svg" alt="css3" width="50" height="50"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/namvarii/namvarii/master/icons/sass.svg" alt="sass" width="50" height="50"/> </a>
 </p>
 
